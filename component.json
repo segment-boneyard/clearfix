@@ -1,0 +1,6 @@
+{
+  "name": "clearfix",
+  "version": "0.0.1",
+  "description": "Clear floated children of an element",
+  "styles": ["index.css"]
+}
